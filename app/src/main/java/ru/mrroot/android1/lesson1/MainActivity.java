@@ -17,6 +17,6 @@ public void onClick(View v){
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main2); // or activity_main
+        setContentView(R.layout.keyboard);
     }
 }
